@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on REST APIs
-- 🌱 I’m currently learning AngularJS and Algorithms
+- 🌱 I’m currently learning Databases, DSAlgorithms, Adv Java
 - 💬 Ask me about ... JAVA, CPP, Python
 - 📫 How to reach me:
 
