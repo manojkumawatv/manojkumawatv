@@ -27,6 +27,16 @@
 - 🧰 **Eclipse** ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 - 🌱 **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+<details>
+<summary>My top languages</summary>
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| C++       |
+|     3| Python    |
+
+</details>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojkumawatv&show_icons=true&locale=en" alt="manojkumawatv" />
 </p>
