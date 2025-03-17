@@ -38,9 +38,12 @@
 
 </details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkumawatv&show_icons=true&locale=en" alt="manojkumawatv" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumawatv" alt="manojkumawatv" />
-</p>
+<details>
+<summary>Know More</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=manojkumawatv&show_icons=true&locale=en" alt="manojkumawatv" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumawatv" alt="manojkumawatv" />
+  </p>
+</details>
