@@ -30,11 +30,11 @@
 
 <details>
 <summary>My top languages</summary>
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| C++       |
-|     3| Python    |
+  | Rank | Languages |
+  |-----:|-----------|
+  |     1| Java      |
+  |     2| C++       |
+  |     3| Python    |
 
 </details>
 
