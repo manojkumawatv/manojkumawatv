@@ -1,12 +1,12 @@
-## Hi there 👋
-
 <!--
 **manojkumawatv/manojkumawatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## Hi there 👋
+I'm Manoj Kumawat, a passionate developer constantly learning and improving my skills in various technologies.
 
-- 🔭 I’m currently working on UI
+- 🔭 I’m currently working on UI dev for a web application project
 - 🌱 I’m currently learning Databases, DSAlgorithms, Adv Java
-- 💬 Ask me about ... JAVA, CPP, Python
+- 💬 Ask me about ... JAVA, C++, Python, or anything related to software development.
 - 📫 connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojkumawatv)
@@ -23,6 +23,7 @@
 - 🐍 **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - 💡 **C++** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - 🌐 **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
 - 🛠 **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - 🔧 **VS Code** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - 🧰 **Eclipse** ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
