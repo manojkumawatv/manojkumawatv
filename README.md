@@ -1,12 +1,17 @@
 <!--
-**manojkumawatv/manojkumawatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**manojkumawatv/manojkumawatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears my your GitHub profile.
+Not mentioned skills and experiences:
+Junior Accountant, Customer Service Associates, Google Workspace, Google Cloud Plateform, Automation with Python, Django etc.
 -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Kumawat!;" />
+</h1>
 ## Hi there 👋
 I'm Manoj Kumawat, a passionate developer constantly learning and improving my skills in various technologies.
 
-- 🔭 I’m currently working on UI dev for a web application project
-- 🌱 I’m currently learning Databases, DSAlgorithms, Adv Java
-- 💬 Ask me about ... JAVA, C++, Python, or anything related to software development.
+- 🔭 I’m a Full Stack Developer and a Competitive Programmer!
+- 🌱 I’m currently learning AI_ML, DevOps
+- 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
 - 📫 connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojkumawatv)
@@ -15,36 +20,61 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 [![Google Developer](https://img.shields.io/badge/Google%20Developer-red?style=for-the-badge&logo=google)](https://g.dev/manojkumawatv)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/manojkumawatV)
 [![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/manojkumawatv)
+[![HackerRank](https://img.shields.io/badge/GeeksforGeek-green?style=for-the-badge&logo=gfg)](https://www.geeksforgeeks.com/manojkumawatv)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manojkumawatv)
 
 
-### 🔥 Languages and Tools:
-- 💻 **Java** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- 🐍 **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- 💡 **C++** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- 🌐 **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,github" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,cpp,mysql,mongodb" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,linux,postman,eclipse" />
+</div>
 
-- 🛠 **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- 🔧 **VS Code** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- 🧰 **Eclipse** ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-- 🌱 **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br/>
 
-<details>
-<summary>My top languages</summary>
-  | Rank | Languages |
-  |-----:|-----------|
-  |     1| Java      |
-  |     2| C++       |
-  |     3| Python    |
+<hr/>
 
-</details>
+<div align="center">
+  <details>
+    <summary>My Top Languages</summary>
+    
+    | Rank | Language |
+    |------|----------|
+    | 1    | Java     |
+    | 2    | C++      |
+    | 3    | Python   |
+  
+  </details>
+</div>
 
-<details>
-<summary>Know More</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=manojkumawatv&show_icons=true&locale=en" alt="manojkumawatv" />
+ 
+<div align="center"> 
+  <a href="mailto:manojkumawatv@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/manojkumawatv/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<!--   </a> -->
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p style="display:flex; align=center; justify-content:center; ">
+      <img src="https://github-readme-stats.vercel.app/api?username=manojkumawatv&theme=midnight-purple" style="margin-right:4px;">
+      <img src="https://streak-stats.demolab.com/?user=manojkumawatv&theme=holi-theme">
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumawatv" alt="manojkumawatv" />
-  </p>
-</details>
+<!--   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumawatv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div>
+
+<br/><br/>
+
