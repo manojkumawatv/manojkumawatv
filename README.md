@@ -6,7 +6,7 @@ Junior Accountant, Customer Service Associates, Google Workspace, Google Cloud P
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Kumawat!;" />
 </h1>
-## Hi there 👋
+
 I'm Manoj Kumawat, a passionate developer constantly learning and improving my skills in various technologies.
 
 - 🔭 I’m a Full Stack Developer and a Competitive Programmer!
@@ -14,19 +14,18 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 - 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
 - 📫 connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojkumawatv)
-[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/manoj_kumawat)
-[![Coursera](https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/f0c3d4b4492659d93b156d0910a8ea20)
-[![Google Developer](https://img.shields.io/badge/Google%20Developer-red?style=for-the-badge&logo=google)](https://g.dev/manojkumawatv)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/manojkumawatV)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/manojkumawatv)
-[![HackerRank](https://img.shields.io/badge/GeeksforGeek-green?style=for-the-badge&logo=gfg)](https://www.geeksforgeeks.com/manojkumawatv)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manojkumawatv)
+[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/manoj_kumawat)
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/manojkumawatv)
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-red?style=for-the-badge&logo=google)](https://g.dev/manojkumawatv)
+[![Coursera](https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/user/f0c3d4b4492659d93b156d0910a8ea20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojkumawatv)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/manojkumawatV)
 
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools-Env ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,github" />
@@ -47,8 +46,9 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
     | Rank | Language |
     |------|----------|
     | 1    | Java     |
-    | 2    | C++      |
-    | 3    | Python   |
+    | 2    | Python   |
+    | 3    | C++      |
+    | 4    | JS       |
   
   </details>
 </div>
@@ -75,6 +75,9 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
   </p>
 <!--   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumawatv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
+![GitHub followers](https://img.shields.io/github/followers/manojkumawatv)
 
 <br/><br/>
+
+
 
