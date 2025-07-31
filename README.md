@@ -13,7 +13,7 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 - 🌱 I’m currently learning AI_ML, DevOps
 - 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
 - 📫 connect with me:
-
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manojkumawatv)
 [![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/manoj_kumawat)
 [![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/manojkumawatv)
@@ -53,19 +53,6 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
   </details>
 </div>
 
- 
-<div align="center"> 
-  <a href="mailto:manojkumawatv@gmail.com.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/manojkumawatv/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-<!--   </a> -->
-</div>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -75,9 +62,17 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
   </p>
 <!--   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumawatv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
-![GitHub followers](https://img.shields.io/github/followers/manojkumawatv)
-
-<br/><br/>
-
-
-
+<div align="center"> 
+  <a href="mailto:manojkumawatv@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/manojkumawatv" target="_blank">
+      <img src="https://img.shields.io/github/followers/manojkumawatv?label=Followers&style=flat&logo=github" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/manojkumawatv/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<!--   </a> -->
+</div>
