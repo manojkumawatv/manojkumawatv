@@ -30,9 +30,9 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,github,angular" />
   <br>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,cpp,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,cpp,mysql,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,git,linux,postman,eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,linux,postman,mongodb" />
 </div>
 
 <br/>
