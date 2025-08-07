@@ -12,6 +12,11 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 - 🔭 I’m a Full Stack Developer and a Competitive Programmer!
 - 🌱 I’m currently learning AI_ML, DevOps
 - 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
+<div align="right"> 
+  
+  ![](https://komarev.com/ghpvc/?username=manojkumawatv&color=blueviolet)
+  
+</div>
 
 - 📫 connect with me:  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/manojkumawatv) 
     [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/manojkumawatv) 
