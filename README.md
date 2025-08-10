@@ -10,7 +10,7 @@ Junior Accountant, Customer Service Associates, Google Workspace, Google Cloud P
 I'm Manoj Kumawat, a passionate developer constantly learning and improving my skills in various technologies.
 
 - 🔭 I’m a Full Stack Developer and a Competitive Programmer!
-- 🌱 I’m currently learning AI_ML, DevOps
+- 🌱 I’m currently learning AI_ML and Cloud Technologies.
 - 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
 <div align="right"> 
   
