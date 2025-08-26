@@ -20,7 +20,7 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 
 - 📫 connect with me:  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/manojkumawatv) 
     [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/manojkumawatv) 
-    [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06)](https://leetcode.com/u/manoj_kumawat) <!--[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/manojkumawatv)--> 
+    [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06)](https://leetcode.com/u/manojkumawatv) <!--[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/manojkumawatv)--> 
     [![Google Developer](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://g.dev/manojkumawatv) 
     [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/user/f0c3d4b4492659d93b156d0910a8ea20) 
     <!--[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/manojkumawatV)
