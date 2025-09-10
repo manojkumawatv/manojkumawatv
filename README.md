@@ -62,7 +62,7 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
   <p style="display:flex; align=center; justify-content:center; ">
       <img src="https://github-readme-stats.vercel.app/api?username=manojkumawatv&theme=midnight-purple" style="margin-right:4px;">
   </p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manojkumawatv&theme=gruvbox-duo&card_width=490 " alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manojkumawatv&theme=gruvbox-duo&card_width=492 " alt="GitHub Streak "/></a>
 <!--   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumawatv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 <div align="center"> 
