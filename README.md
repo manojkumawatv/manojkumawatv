@@ -10,7 +10,7 @@ Junior Accountant, Customer Service Associates, Google Workspace, Google Cloud P
 I'm Manoj Kumawat, a passionate developer constantly learning and improving my skills in various technologies.
 
 - 🔭 I’m a Full Stack Developer and a Competitive Programmer!
-- 🌱 I’m currently learning AI_ML and Cloud Technologies.
+- 🌱 I’m currently learning Angular(TS) and Cloud Technologies.
 - 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
 <div align="right"> 
   
@@ -33,7 +33,7 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,github,angular" />
   <br>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,cpp,mysql,java" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,mysql,java" />
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,linux,postman,mongodb" />
 </div>
@@ -50,8 +50,8 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
     |------|----------|
     | 1    | Java     |
     | 2    | Python   |
-    | 3    | C++      |
-    | 4    | JS       |
+    | 3    | JS       |
+    | 4    | CPP      |
   
   </details>
 </div>
