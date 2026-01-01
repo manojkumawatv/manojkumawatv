@@ -11,7 +11,7 @@ I'm Manoj Kumawat, a passionate developer constantly learning and improving my s
 
 - 🔭 I’m a Full Stack Developer and a Competitive Programmer!
 - 🌱 I’m currently learning Angular(TS) and Cloud Technologies.
-- 💬 Ask me about ... JAVA, C++, Python, or anything related to software development and design.
+- 💬 Ask me about ... JAVA(proficient), C++, Python, or anything related to software architect --> development.
 <div align="right"> 
   
   ![](https://komarev.com/ghpvc/?username=manojkumawatv&color=blueviolet)
